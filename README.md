@@ -38,7 +38,7 @@
 
 <br><br>
 
-## 🚀 Projects
+## Projects
 
 <table width="100%">
 <tr>
@@ -69,7 +69,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
