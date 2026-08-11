@@ -49,7 +49,7 @@
 </td>
 <td>
 
-<span style="font-size:120%;"><b>Tails(반려동물 동반 여행 서비스)</b></span> <img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10'%3E%3Ccircle cx='5' cy='5' r='5' fill='%232ea043'/%3E%3C/svg%3E" width="10" height="10" style="vertical-align:middle;position:relative;top:-2px" /><br>
+<span style="font-size:120%;"><b>Tails(반려동물 동반 여행 서비스)</b></span> <img src="assets/dot-green.svg" width="10" height="10" style="vertical-align:middle;position:relative;top:-2px" /><br>
 <span style="color:#777777;font-size:90%">반려동물과 함께 여행할 수 있는 장소를 검색하고, 여행 일정을 계획하는 서비스</span>
 
 [![GitHub](https://img.shields.io/badge/GitHub-999999?style=flat-square)](https://github.com/tailsProject/Tails) [![mytails.site](https://img.shields.io/badge/mytails.site-999999?style=flat-square)](https://mytails.site) ![Java](https://img.shields.io/badge/Java-eeeeee?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-eeeeee?style=flat-square) ![React](https://img.shields.io/badge/React-eeeeee?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-eeeeee?style=flat-square)
