@@ -74,7 +74,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/1gyeolpark/1gyeolpark/output/stats.svg" height="195" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/1gyeolpark/1gyeolpark/output/top-langs.svg" height="195" />
 
 </div>
