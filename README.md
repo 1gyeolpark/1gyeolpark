@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1gyeolpark&show_icons=true&count_private=true&include_all_commits=true&theme=default" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gyeolpark&layout=donut&theme=default" width="49%" />
+<img src="https://raw.githubusercontent.com/1gyeolpark/1gyeolpark/output/stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/1gyeolpark/1gyeolpark/output/top-langs.svg" width="49%" />
 
 </div>
