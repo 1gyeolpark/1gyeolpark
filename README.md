@@ -16,7 +16,7 @@
 
 ###  Contact
 
-![Email](https://img.shields.io/badge/marine3682%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/hangyeol0019%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
 
 <br>
 
