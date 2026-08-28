@@ -44,7 +44,7 @@
 <tr>
 <td width="260" align="center">
 
-<img src="assets/tails-preview.png" width="100%" />
+<img src="assets/tails-preview.jpg" width="100%" />
 
 </td>
 <td>
