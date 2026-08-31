@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ffc107
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffc107
+            dist/github-contribution-grid-snake.svg?color_snake=%236e6a65&color_dots=%23ebedf0,%23f6c9c0,%23eb9c8c,%23dd6a52,%23d3402a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23979490&color_dots=%232d2d2d,%236b2d24,%2394382b,%23bc4530,%23d3402a
 
       - name: generate stats card
         uses: stats-organization/github-readme-stats-action@v2
