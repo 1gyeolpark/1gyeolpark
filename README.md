@@ -16,7 +16,7 @@
 
 ###  Contact
 
-![Email](https://img.shields.io/badge/hangyeol0019%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/hangyeol0019%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-999999?style=flat-square)](https://1gyeolpark.github.io/Portfolio/)
 
 <br>
 
