@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 420" width="1140" height="420" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#e5e5e5" />
+    </pattern>
+
+    <linearGradient id="shimmer" x1="-100%" y1="0" x2="0%" y2="0">
+      <stop offset="0%" stop-color="#a93322" />
+      <stop offset="25%" stop-color="#d3402a" />
+      <stop offset="50%" stop-color="#eba99f" />
+      <stop offset="75%" stop-color="#d3402a" />
+      <stop offset="100%" stop-color="#a93322" />
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%;200%;0%" dur="4.5s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <linearGradient id="blob3grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d3402a" />
+      <stop offset="100%" stop-color="#8e8a85" />
+    </linearGradient>
+
+    <filter id="blur1" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="36" />
+    </filter>
+    <filter id="blur2" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="33" />
+    </filter>
+
+    <style>
+      @keyframes blobfloat {
+        0%, 100% { transform: translate(0, 0) rotate(0deg) scale(1); }
+        33% { transform: translate(30px, -24px) rotate(8deg) scale(1.12); }
+        66% { transform: translate(-24px, 21px) rotate(-6deg) scale(0.92); }
+      }
+      .blob { animation-name: blobfloat; animation-timing-function: ease-in-out; animation-iteration-count: infinite; }
+      .b1 { transform-origin: 190px 90px; animation-duration: 20s; }
+      .b2 { transform-origin: 960px 330px; animation-duration: 25s; animation-delay: -7s; }
+      .b3 { transform-origin: 560px 200px; animation-duration: 17s; animation-delay: -11s; }
+      .b4 { transform-origin: 110px 380px; animation-duration: 13s; animation-delay: -3s; }
+    </style>
+  </defs>
+
+  <rect width="1140" height="420" fill="#ffffff" />
+  <rect width="1140" height="420" fill="url(#dots)" />
+
+  <circle class="blob b1" cx="190" cy="90" r="143" fill="#d3402a" opacity="0.32" filter="url(#blur1)" />
+  <circle class="blob b2" cx="960" cy="330" r="135" fill="#8e8a85" opacity="0.32" filter="url(#blur1)" />
+  <circle class="blob b3" cx="560" cy="200" r="158" fill="url(#blob3grad)" opacity="0.16" filter="url(#blur1)" />
+  <circle class="blob b4" cx="110" cy="380" r="68" fill="#a93322" opacity="0.18" filter="url(#blur2)" />
+
+  <text x="80" y="220" font-weight="700" letter-spacing="-0.02em" font-size="52">
+    <tspan fill="url(#shimmer)">BACKEND</tspan>
+    <tspan fill="#1a1a1a"> DEVELOPER</tspan>
+  </text>
+  <text x="80" y="284" font-weight="700" letter-spacing="-0.02em" font-size="58" fill="#1a1a1a">HANGYEOL</text>
+  <text x="80" y="326" font-size="17" fill="#767676">Backend-focused full-stack developer.</text>
+</svg>
