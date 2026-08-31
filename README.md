@@ -16,9 +16,10 @@
 
 <div align="center">
 
-[$\Large\textit{\color{#d3402a}{portfolio}}$](https://1gyeolpark.github.io/Portfolio/)
-<br>[$\scriptsize\textsf{\color{#e8a99d}{hangyeol0019@gmail.com}}$](mailto:hangyeol0019@gmail.com)
-<br><sub><span style="color:#8e8a85">▲ 클릭 바로가기</span></sub>
+<a href="https://1gyeolpark.github.io/Portfolio/"><img src="assets/link-portfolio.svg" height="25" /></a>
+<br>
+<a href="mailto:hangyeol0019@gmail.com"><img src="assets/link-email.svg" height="16" /></a>
+<br><sub>$\scriptsize\textsf{\color{#8e8a85}{▲ 클릭 바로가기}}$</sub>
 </div>
 
 
