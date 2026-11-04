@@ -69,6 +69,14 @@
 
 <br>
 
+## Study
+
+> <small>학습 내용을 주제별로 정리한 레포지토리</small>
+
+[![hg-study](https://img.shields.io/badge/hg--study-Organization-2f6f4f?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/hg-study)
+
+<br><br>
+
 ## GitHub Stats
 
 <div align="center">
