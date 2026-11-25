@@ -42,6 +42,33 @@
 <tr>
 <td width="260" align="center">
 
+<img src="assets/mealgram-preview.jpg" width="100%" />
+
+</td>
+<td>
+
+### mealgram <img src="assets/dot-green.svg" width="10" height="10" />
+> <small>신체 정보와 내 재료로 영양 기준에 맞는 식단을 추천해 주는 사이트</small>
+
+[![▸GitHub](https://img.shields.io/badge/%E2%96%B8GitHub-999999?style=flat-square)](https://github.com/hg-proj/mealgram) [![▸Site Link](https://img.shields.io/badge/%E2%96%B8Site%20Link-999999?style=flat-square)](https://mealgram.site) ![Java](https://img.shields.io/badge/Java-eeeeee?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-eeeeee?style=flat-square) ![React](https://img.shields.io/badge/React-eeeeee?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eeeeee?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-eeeeee?style=flat-square)
+
+- 규칙 기반 요리 조합 식단 추천, 한국인 영양소 섭취기준 검증
+- OpenAI 식단 후보 선택과 이름 작성, 실패 시 규칙 후보로 대체
+- JWT Access/Refresh 토큰 인증, 이메일 인증번호 회원가입
+- Redis 기반 인증번호와 호출 제한 관리
+- 장보기 목록 계산, 내 식단 저장
+
+<br>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="90%">
+<tr>
+<td width="260" align="center">
+
 <img src="assets/tails-preview.jpg" width="100%" />
 
 </td>
@@ -50,11 +77,11 @@
 ### Tails <img src="assets/dot-green.svg" width="10" height="10" />
 > <small>반려동물과 여행할 수 있는 장소를 검색하고, 여행 일정을 계획하는 서비스</small>
 
-[![GitHub](https://img.shields.io/badge/GitHub-999999?style=flat-square)](https://github.com/tailsProject/Tails) [![mytails.site](https://img.shields.io/badge/mytails.site-999999?style=flat-square)](https://mytails.site) ![Java](https://img.shields.io/badge/Java-eeeeee?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-eeeeee?style=flat-square) ![React](https://img.shields.io/badge/React-eeeeee?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-eeeeee?style=flat-square)
+[![▸GitHub](https://img.shields.io/badge/%E2%96%B8GitHub-999999?style=flat-square)](https://github.com/tailsProject/Tails) [![▸Site Link](https://img.shields.io/badge/%E2%96%B8Site%20Link-999999?style=flat-square)](https://pet-tails.website) ![Java](https://img.shields.io/badge/Java-eeeeee?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-eeeeee?style=flat-square) ![React](https://img.shields.io/badge/React-eeeeee?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-eeeeee?style=flat-square)
 
 - JWT Access/Refresh 토큰 인증
-- 카카오·구글·네이버 OAuth2 소셜 로그인
-- 게시판 CRUD, 좋아요·북마크, 무한 depth 대댓글
+- 카카오, 구글, 네이버 OAuth2 소셜 로그인
+- 게시판 CRUD, 좋아요와 북마크, 무한 depth 대댓글
 - 반려동물 등록 CRUD
 - 이벤트 기반 알림 + FCM 웹 푸시
 
