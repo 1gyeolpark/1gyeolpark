@@ -98,10 +98,10 @@
 
 ## Study
 
-> <small>학습 내용을 주제별로 정리한 레포지토리</small>
+> <small>학습 내용을 주제별로 정리한 레포지토리와 이론 사이트</small>
 
-[![hg-study](https://img.shields.io/badge/hg--study-Organization-2f6f4f?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/hg-study)
-
+[![hg-study 레포](https://img.shields.io/badge/hg--study-Organization-2f6f4f?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/hg-study) 
+[![이론 사이트](https://img.shields.io/badge/이론%20사이트-GitHub%20Pages-2E9E5B?style=flat-square&logo=github&logoColor=white)](https://1gyeolpark.github.io/study)
 <br><br>
 
 ## GitHub Stats
